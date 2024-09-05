@@ -1,0 +1,12 @@
+Patient ID,Patient0,Patient1,Patient2,Patient3
+Age,46,61,64,53
+Gender,Female,Male,Male,Female
+Site of tumor,Colon,Colon,Rectum,Colon
+Histological type of tumor,ADCa,ADC,ADC,ADC
+Histological type of polyp,none,tubulovillous adenoma,tubulovillous adenoma,tubulovillous adenoma
+tissue processed,cancer,normal/polyp/cancer,normal/para-cancer/polyp/cancer,blood/normal/polyp/cancer
+pTNM: T,3,3,4a,3
+pTNM: N,0,1,0,0
+pTNM: M,0,0,0,0
+pTNM,T3N0M0,T3N1bM0,T4aN0M0,T3N0M0
+Stage,IIA,IIIB,IIB,IIA
