@@ -29,6 +29,10 @@ for (i in seq_along(obs_names)) {
 integrated_data@meta.data[['barcodes']] <- barcodes
 integrated_data@meta.data[['patient']] <- patient
 integrated_data@meta.data[['tissue']] <- tissue
+
+integrated_data <- subset(integrated_data, subset = patient %in% list("COL07", "COL12","COL16"))
+integrated_data <- subset(integrated_data, subset = tissue %in% list("CRC"))
+
 #Start preprocessing
 mito.genes <- grep("^MT-", rownames(integrated_data), value = TRUE)
 # Calculate the percentage of mitochondrial gene expression per cell
