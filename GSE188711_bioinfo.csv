@@ -1,0 +1,7 @@
+GSM,Patient No.,Sex,Age,Location,Size(cm),AJCC Stage,LN Metastasis,Distant Metastasis,MSI,Metabolic disorders
+GSM5688706,Left-sided CRC Patient 1,F,57,Sigmoid,1.5 x 0.5,I,0,0,MSS,0
+GSM5688707,Left-sided CRC Patient 2,M,70,Sigmoid,3 x 1,II,0,0,MSS,0
+GSM5688708,Left-sided CRC Patient 3,M,65,Sigmoid,2 x 1.5,I,0,0,MSS,0
+GSM5688709,Right-sided CRC Patient 1,F,69,Ascending,8 x 1.7,II,0,0,MSS,0
+GSM5688710,Right-sided CRC Patient 2,F,80,Ascending,8 x 3.2,II,0,0,MSS,0
+GSM5688711,Right-sided CRC Patient 3,M,59,Ascending,10 x 5.5,II,0,0,MSS,0
