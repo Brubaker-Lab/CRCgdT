@@ -1,0 +1,17 @@
+SAMPLE_ID,Location1,Location2,Stage,MSI Status,Race ,Age,Gender,Pathological subtype
+T_CAC1,Right,Cecum,T3N2,MSS,Caucasian,76,Female,Moderately differentiated(Mucinous features)
+T_CAC2,Left,Sigmoid,T4aN2M1C,MSS,Caucasian,83,Male,Moderately differentiated
+T_CAC3,Right,Hepatic Flexure,T4aN2,MSS,Other,68,Male,Moderately differentiated
+T_CAC4,Left,Descending,T3N0,MSS,African American,80,Female,Adenocarcinoma insitu
+T_CAC5,Right,Cecum,T3N1,MSS,Caucasian,37,Male,Moderately differentiated
+T_CAC6,Left,Sigmoid,T2N0,MSS,African American,75,Male,Moderately differentiated
+T_CAC7,Right,Cecum/IC,T3N1A,MSI-H,Caucasian,78,Male,Moderately differentiated
+T_CAC8,Right,Cecum,T4aN1,MSS,African American,38,Male,Moderately differentiated
+T_CAC9,Left,Sigmoid,T2N0,MSS,Asian,72,Male,Poorly differentiated
+T_CAC10,Left,Descending,T2N0,MSS,Hispanic,55,Male,Moderately differentiated
+T_CAC11,Right,Ascending,T3N0,MSS,Caucasian,70,Male,Moderately differentiated
+T_CAC12,Right,Cecum,T2N0,MSI-H,African American,66,Female,Moderately differentiated
+T_CAC13,Right,Cecum/Appendix,T1N0,MSS,Caucasian,68,Female,Moderately differentiated
+T_CAC14,Left,Descending,T3N1,MSS,African American,51,female,Moderately differentiated
+T_CAC15,Left,Sigmoid,T3N1,MSS,Caucasian,64,Male,Moderately differentiated
+T_CAC16,Left,Rectosigmoid,T3N0,MSS,African American,64,Female,Moderately differentiated
